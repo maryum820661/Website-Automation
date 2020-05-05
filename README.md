@@ -1,4 +1,4 @@
-# NED Website Automation (ned-website)
+# NED Login Area Automation using Electron.js and Quasar.
 
 A Quasar Framework app
 
